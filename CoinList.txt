@@ -1,0 +1,5 @@
+bitcoin	btc	cryptocurrency	10000.0	100.0	1.0
+ethereum	eth	cryptocurrency	20000.0	200.0	2.0
+
+maidsafecoin	maid	cryptocurrency	900.0	600.0	1.25
+blackcoin	blk	crypto	3000.0	300.0	2.5

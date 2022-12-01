@@ -1,0 +1,7 @@
+anna		anna	10000
+barbara		b	20000
+cathie		c	30000
+dohas		d	40000
+eli		e	50000
+farah		f	60000
+shaz		s	70000
